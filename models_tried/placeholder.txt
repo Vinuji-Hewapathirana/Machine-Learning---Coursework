@@ -1,1 +1,3 @@
+This folder contains ipynb files of random forest classification models explored during the Machine Learning project for the coursework. 
 
+Each model here represents different attempts tested to improve performance metrics such as accuracy, precision, recall, and F1-score. These models were developed using techniques like SMOTE (Synthetic Minority Oversampling Technique), classweights, hyperparameter tuning and feature reduction to address class imbalance and improve accuracy.
